@@ -1,6 +1,7 @@
-# bamazon
+# Bamazon
 
 My Bamazon App
+
 Demo: https://youtu.be/eZI54Gk8rbM
 
 ## Overview
